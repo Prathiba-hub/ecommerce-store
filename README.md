@@ -17,14 +17,6 @@ A full-stack e-commerce website built using Django.
 - CSS
 - SQLite
 
-## Run Project
-
-```bash
-python manage.py runserver
-
-
----
-
 ## 🎉 FINAL RESULT
 
 Your GitHub profile will now showcase:
@@ -34,3 +26,11 @@ Your GitHub profile will now showcase:
 ✅ Frontend UI skills  
 
 Huge boost for internships 💻✨
+
+## Run Project
+
+```bash
+python manage.py runserver
+
+
+---
