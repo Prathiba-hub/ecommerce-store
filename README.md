@@ -25,7 +25,7 @@ python manage.py runserver
 
 ---
 
-# 🎉 FINAL RESULT
+## 🎉 FINAL RESULT
 
 Your GitHub profile will now showcase:
 ✅ Full-stack project  
